@@ -94,3 +94,9 @@
 </div>
     
 ###
+
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SalatielFerreira&layout=donut-vertical)](https://github.com/SalatielFerreira/github-readme-stats)
+
+</div>
