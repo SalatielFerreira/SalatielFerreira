@@ -16,11 +16,6 @@
 
 ###
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SalatielFerreira&theme=dark&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SalatielFerreira&layout=compact)
-
-###
-
 <h3 align="center">My Skills:</h3>
 
 ###
@@ -92,3 +87,6 @@
 
 ###
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SalatielFerreira&layout=compact)
+
+###
