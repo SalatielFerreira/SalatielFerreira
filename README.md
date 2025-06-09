@@ -16,6 +16,10 @@
 
 ###
 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SalatielFerreira&theme=dark&show_icons=true)
+
+###
+
 <h3 align="center">My Skills:</h3>
 
 ###
