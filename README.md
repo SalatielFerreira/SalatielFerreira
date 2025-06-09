@@ -87,8 +87,8 @@
 
 ###
 
-<div>
-  <imagem fonte="https://github-readme-stats.vercel.app/api/top-langs/?username=SalatielFerreira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" altura="150" alt="grafico de idiomas" />
+<div align="center">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 </div>
     
 ###
